@@ -9,17 +9,17 @@ It means there too many things which don't work or work wrong
 ### Settings
 To change some rules of game you should change couple of lines in the main.cpp  
 
-'''
+```C++
 52    TGame<Normal> *game = nullptr;
 53    Normal rule(Team::Neutral);
-'''
+```
 You should change *Normal* to *Easy*. It's affect on game:  
 Normal - You get default points for various events. At start you have 1 point for 1 worker. You lose, when you are have not units and points.
 Easy - You get double multiplicated points for varioius events. At starts you have 10 points. You lose, when you base is destroyed.
 To change initial map you should change *Level* variable in
-'''
+```
 143   game = new TGame(*window, Level::default_level_1(), rule);
-'''
+```
 I set it as default_level_1, but you can set it either as default_level_2, or create you own.  
 
 ### How to play this weird thing
