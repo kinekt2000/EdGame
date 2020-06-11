@@ -22,7 +22,7 @@ To change initial map you should change *Level* variable in
 '''
 I set it as default_level_1, but you can set it either as default_level_2, or create you own.  
 
-### How to play this weird thing.
+### How to play this weird thing
 1. When you run this, there is the main menu. Press **New Game** to start.  
 2. There is game field, in the botton-right corner you can see which player turn and his points.  
 As the first thing you should create worker. Press on base, then on the icon on interface.  
@@ -44,6 +44,7 @@ Now you now how to create and use units. All other mechanics are more or less in
 Experement with them.  
 
 After exiting the game, you can viev logs in *game_log.log* file near the .exe.  
+
 ---
 ### Building
 The main thing - you should include SFML-2.5.1.
