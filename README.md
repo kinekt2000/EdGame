@@ -49,7 +49,7 @@ After exiting the game, you can viev logs in *game_log.log* file near the .exe.
 ### Building
 The main thing - you should include SFML-2.5.1.
 Put all files from resources to directory of .exe after building.
-Project built with Qt Creator Community 4.12.0 IDE. Qt libs were not used.
+Project built with Qt Creator Community 4.12.0 IDE. Qt libs were not used.  
 link to *Normal* build: https://drive.google.com/drive/folders/1ZDDy-7l_4WoqpL-_V7VG4GACU4mdVpae?usp=sharing  
 
 
