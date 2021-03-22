@@ -2,7 +2,7 @@
 ## EdGame
 ### University term project
 So, this is a project which made only for education purposes  
-It means there too many things which don't work or work wrong
+It means there too many things that work bad or don't work at all.
 
 ---
 
