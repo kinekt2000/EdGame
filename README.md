@@ -43,7 +43,7 @@ Magic tower and barrack, they can create units, which can deal damage.
 Now you now how to create and use units. All other mechanics are more or less intuative (It seems to me).  
 Experement with them.  
 
-After exiting the game, you can viev logs in *game_log.log* file near the .exe.  
+After exiting the game, you can view logs in *game_log.log* file near the .exe.  
 
 ---
 ### Building
